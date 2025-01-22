@@ -33,9 +33,3 @@ This project focuses on building a machine learning model to detect whether a tu
 - Demonstrates reliability for clinical applications.
 
 ---
-
-## 📋 How to Use
-1. Clone the repository to your local machine.
-2. Install the required libraries:
-   ```bash
-   pip install pandas scikit-learn tensorflow
